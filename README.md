@@ -26,4 +26,4 @@ Interactive Visualizations
 📂 File Format
 
 .pbix – Power BI dashboard file
-.xlsx – Source dataset used for analysis
+
