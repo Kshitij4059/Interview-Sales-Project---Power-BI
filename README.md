@@ -1,4 +1,4 @@
-# Interview-Sales-Project---Power-BI
+# Sales-Project---Power-BI
 -This project presents an interactive E-Commerce Sales Dashboard developed using Power BI to analyze and visualize sales performance. The dashboard provides insights into key business metrics such as total sales, profit, quantity sold, and customer purchasing trends.
 
 -The dataset was imported from Microsoft Excel and transformed using Power Query for data cleaning, formatting, and preparation. Data modeling techniques were applied to establish relationships between tables and create calculated measures to enhance analytical capabilities.
