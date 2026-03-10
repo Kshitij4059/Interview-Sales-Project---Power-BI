@@ -24,6 +24,7 @@ Interactive Visualizations
 -The goal of this project is to demonstrate how business intelligence tools can convert raw sales data into meaningful insights that support data-driven decision making.
 
 📂 File Format
-
 .pbix – Power BI dashboard file
 
+Screenshot
+Example - https://github.com/Kshitij4059/Interview-Sales-Project---Power-BI/blob/main/Sales%20Data%20Visualization%20Dashboard.png
